@@ -7,5 +7,4 @@ A question & answering system using T5 Transformers (Hugging Face) and Pytorch L
 
 3. Used T5 Transformers for training purpose and make prediction using the trained model to the given text input.
 
-# Enjoy !!!!!!!!!!!
 
